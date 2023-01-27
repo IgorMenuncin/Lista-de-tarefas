@@ -1,4 +1,4 @@
-# TodoList
+# Lista de Tarefas
 
 <p>Projeto de estudos desenvolvido para aprimorar conhecimentos de integração entre o frontend e o backend</p>
 <p>Frontend desenvolvido em React utilizando React-icons e Axios</p>
